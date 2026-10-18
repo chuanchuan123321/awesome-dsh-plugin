@@ -1,0 +1,6 @@
+url: https://github.com/chuanchuan123321/dsh-inline-predict
+name: chuanchuan123321/dsh-inline-predict
+category: ui
+description:
+  en: 'Inline next-message prediction for the DSH composer: a light ghost suggestion that wraps fully and grows the input by the extra lines, Tab to accept, Esc to dismiss, one cached model call per idle turn.'
+  zh: 'DSH 输入框内的下一条消息预测：浅色幽灵建议完整换行并随行数自然增高，Tab 接受，Esc 忽略，每轮空闲最多一次带缓存的模型调用。'
